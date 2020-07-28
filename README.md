@@ -1,5 +1,5 @@
 # DynamicDNS for Forge  
-A dynamic DNS plugin for Spigot
+A dynamic DNS mod for Forge
 ### Commands:
 * /UpdateIP \[IP\] - Force updates the IP on your DDNS Services, the IP argument can also be used to overide the IP detection on the DDNS services (best to leave it blank)
 ### Config:
