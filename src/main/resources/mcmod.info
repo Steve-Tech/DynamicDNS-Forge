@@ -1,0 +1,16 @@
+[
+{
+  "modid": "DynamicDNS",
+  "name": "DynamicDNS Forge",
+  "description": "An unofficial DuckDNS Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Steve-Tech"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
